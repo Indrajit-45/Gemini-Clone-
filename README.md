@@ -14,7 +14,7 @@ This is a **Gemini AI Clone** built using **React**, with **Google API integrati
 ## 🛠️ Tech Stack  
 - **React** (UI Framework)  
 - **Google API** (For AI responses)  
-- **React Icons** (For icons)  
+ 
 
 
 
